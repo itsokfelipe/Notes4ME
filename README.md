@@ -2,9 +2,10 @@
 
 
 *[!] Oque é um algoritmo*
-[@] MATEMÁTICA
+
+> [@] MATEMÁTICA
 > [@] Sequência finita de regras, raciocínios ou operações que, aplicada a um número finito de dados, permite solucionar classes semelhantes de problemas;
-[@] INFORMÁTICA
+> [@] INFORMÁTICA
 [@] Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas;
 [@] Quando você acessa um site, os algoritmos definem o caminho para a correta abertura da página. Quando você interage com um link, outros algoritmos são acionados, indicando o que fazer;
 
