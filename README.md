@@ -1,7 +1,7 @@
 # Notes4ME
 
-> [!IMPORTANT]
-`#FFFF00` *[!] Oque é um algoritmo?*
+
+> [!*[!] Oque é um algoritmo?*]
 [@] MATEMÁTICA
 > [@] Sequência finita de regras, raciocínios ou operações que, aplicada a um número finito de dados, permite solucionar classes semelhantes de problemas;
 [@] INFORMÁTICA
