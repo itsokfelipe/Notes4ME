@@ -81,7 +81,7 @@
 [@] Área em que coisas diversas (dois departamentos, duas ciências etc.) interagem;
 
 *[!] Bug Reporter?*
-[@] Com seu vasto conhecimento em programação, ele é capaz de identificar falhas e bugs em sistemas, softwares e aplicativos, e dar sugestões de como corrigi-los;
+> [@] Com seu vasto conhecimento em programação, ele é capaz de identificar falhas e bugs em sistemas, softwares e aplicativos, e dar sugestões de como corrigi-los;
 
 *[!] Oque é um insight?*
 > [@] Insight é a compreensão de uma causa e efeito específicos dentro de um contexto específico;
